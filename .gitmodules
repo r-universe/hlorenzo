@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SEPaLS"]
+	path = SEPaLS
+	url = https://github.com/hlorenzo/sepals
 [submodule "ddsPLS"]
 	path = ddsPLS
 	url = https://github.com/cran/ddsPLS
