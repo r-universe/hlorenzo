@@ -7,4 +7,4 @@
 	url = https://github.com/hlorenzo/sepals
 [submodule "ddsPLS"]
 	path = ddsPLS
-	url = https://github.com/cran/ddsPLS
+	url = https://github.com/hlorenzo/ddspls
